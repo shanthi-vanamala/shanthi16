@@ -1,0 +1,18 @@
+<DOCTYPE HTML>
+<html>
+<head>
+   <h1>MENU</h1
+   <h2>MENU</h2
+   <h3>MENU</h3
+   <h4>MENU</h4
+</head>
+<body>
+   <center>
+        <h3>MENU</h3
+   <center>
+   <hr>
+   <h4>starters</h4>
+   <p1>some content</p>
+</body>
+</html>
+
